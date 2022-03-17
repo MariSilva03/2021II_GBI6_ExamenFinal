@@ -1,6 +1,6 @@
 # 2021II_GBI6_ExamenFinal
 ## CONTROL DE LA VERSIÓN
-### Datos personales
+### Información personal
 - Nombre: Mariana Elizabeth Silva Moreta
 - cedula: 1550056228
 - celular: 0982235337
